@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://source.codeaurora.org/quic/la/" name="caf" review="codeaurora.org"/>
-  <default remote="caf" revision="LA.UM.6.5.r1"/>
-  <project name="device/common"/>
+  <remote fetch="https://github.com/kangzakun/test_android.git" name="test1"/>
+  <project name="test1/"/>
 </manifest>
