@@ -2,5 +2,5 @@
 <manifest>
   <remote fetch="git://github.com/kangzakun/" name="test_first" review="git://github.com/kangzakun"/>
   <default remote="test_first" revision="master"/>
-  <project path="test_android/test2" name="test2"/>
+  <project path="test_android2/test2" name="test2"/>
 </manifest>
