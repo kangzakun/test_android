@@ -2,6 +2,6 @@
 <manifest>
   <remote fetch="https://github.com/kangzakun" name="test_first" review="git://github.com/kangzakun"/>
   <default remote="test_first" revision="master"/>
-  <project path="test_android2" name="test_android2"/>
-  <project path="test_android" name="test_android"/>
+  <project path="test_android2" name="device/test_android2"/>
+  <project path="test_android" name="device/test_android"/>
 </manifest>
