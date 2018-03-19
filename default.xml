@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://github.com/kangzakun/" name="test_first" review="git://github.com/kangzakun"/>
+  <remote fetch="https://github.com/kangzakun/" name="test_first" review="git://github.com/kangzakun"/>
   <default remote="test_first" revision="master"/>
   <project path="test_android2/test2" name="test_android2/test2"/>
 </manifest>
